@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['0']
+
+roboflow:
+  workspace: furkan-aydin-929es
+  project: dental-projetc
+  version: 5
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/furkan-aydin-929es/dental-projetc/dataset/5
